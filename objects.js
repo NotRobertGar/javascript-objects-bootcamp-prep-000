@@ -1,1 +1,5 @@
 var playlist = {};
+
+function updatePlaylist{
+  
+}
