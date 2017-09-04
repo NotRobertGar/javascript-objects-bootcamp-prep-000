@@ -1,4 +1,4 @@
-var playlist = new Object({TaylorSwift: "Oatmeal"});
+var playlist = new Object({artist: songtitle});
 
 console.log(playlist);
 
